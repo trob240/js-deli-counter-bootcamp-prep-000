@@ -1,4 +1,4 @@
-var lastNumber = 0
+/*var lastNumber = 0
 
 function currentNumber(lastNumber)
 {
@@ -8,7 +8,7 @@ function currentNumber(lastNumber)
   
   return `Welcome ticket ${lastNumber}, you are ${katzDeliLine.length} in line`
 }
-
+*/
 
 
 
